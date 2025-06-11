@@ -2,9 +2,9 @@
 # Algoritmos y Estructura de Datos - Proyecto 2025
 
 ### Autores:
-- Lucía Rucci
-- Florencia Chamaza
-- Mia Silvestrini
+- Lucía Rucci 2418308
+- Florencia Chamaza 2418092
+- Mia Silvestrini 2411741
 
 ---
 
